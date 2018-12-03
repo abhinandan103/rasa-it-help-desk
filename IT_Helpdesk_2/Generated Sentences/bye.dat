@@ -1,0 +1,352 @@
+[
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "thanks bye"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "thanks see ya"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye it was nice"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye."
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye,"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye you are awesome"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye nice to talk to you"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "ok see ya"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "ok see ya"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "see ya"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye talk to you later"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye talk to you later"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye talk to you later"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye talk to you later"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye you are awesome"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "see ya"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "thanks bye"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "thanks see ya"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye nice to talk to you"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye,"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye talk to you later"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye youre good"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye you are awesome"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye it was nice"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "see ya"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye."
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye,"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "ok see ya"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye it was nice"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye talk to you later"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "thanks bye"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "see ya"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye."
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye!"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "thanks see ya"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye,"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye you are awesome"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "ok see ya"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye you are awesome"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye."
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye,"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "ok bye"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "see ya"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye nice to talk to you"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye talk to you later"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "ok bye"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye you are awesome"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye."
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "thanks see ya"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "thanks bye"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "thanks see ya"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye."
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye you are awesome"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "see ya"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye it was nice"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "ok see ya"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye youre good"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye nice to talk to you"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye you are awesome"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye!"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye it was nice"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye,"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye."
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye you are awesome"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "thanks bye"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "see ya"
+    },
+    {
+        "act": "bye",
+        "slots": [],
+        "text": "bye you are awesome"
+    }
+]

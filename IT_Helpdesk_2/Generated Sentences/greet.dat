@@ -1,0 +1,852 @@
+[
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "Hello"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi!"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey there"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hello!"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey there"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi!"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hello"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey there"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "Hello"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "Hello"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hello!"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "Hello"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "Hello"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey there"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hello"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hello!"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hello!"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi!"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey there"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hello"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi!"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey there"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "Welcome!"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "Welcome."
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "Welcome."
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "Welcome!"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "Welcome!"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "Welcome."
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "Welcome."
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "Welcome!"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "Welcome!"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "Welcome!"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi Welcome! to helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi Welcome! to helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey Welcome. to helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey there Welcome. to IT helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi! Welcome. to IT helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hello Welcome! to IT helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey there Welcome! to helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hello! Welcome. to helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi! Welcome! to helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey Welcome. to IT helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey there Welcome. to IT helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi! Welcome! to IT helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hello Welcome. to IT helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey Welcome. to helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey there Welcome. to IT helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi Welcome. to helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi! Welcome! to IT help"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hello! Welcome. to IT help"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey Welcome! to IT help"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi! Welcome! to helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hello Welcome. to IT helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi! Welcome. to IT helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "Hello Welcome. to IT help"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi Welcome. to IT helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "Hello Welcome! to helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey Welcome. to helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hello Welcome. to IT help"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hello Welcome! to IT helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hello Welcome! to helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "Hello Welcome! to helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey there Welcome! to helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey Welcome! to helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi! Welcome! to IT help"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hello Welcome. to IT helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "Hello Welcome! to helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey Welcome! to helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hello! Welcome. to IT help"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey there Welcome. to IT help"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey there Welcome! to IT help"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi! Welcome! to helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey Welcome. to IT help"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hello! Welcome. to IT help"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "Hello Welcome. to helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hello! Welcome! to IT helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey Welcome! to IT helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey there Welcome! to IT help"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi! Welcome. to helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi Welcome! to IT helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey there Welcome! to IT help"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey there Welcome. to IT helpdesk"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "how can I help you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "how could I assist you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "how May I help you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "how could I help you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "how could I take care you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "how May I assist you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "how can I take care you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "how could I guide you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "how can I take care you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "how can I help you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "how could I take care you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "how would I guide you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "how can I guide you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "how would I take care you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "how May I take care you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "how May I solve problem of you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "how May I solve problem of you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "how would I assist you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "how could I guide you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "how could I take care you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "how could I help you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "how could I guide you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "how could I help you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "how could I solve problem of you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "how could I guide you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey how can I take care you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hello how would I assist you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey how would I solve problem of you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey there how would I take care you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hello how can I help you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey there how can I help you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hello how would I guide you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi how May I guide you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey how can I take care you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hello how could I guide you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi! how would I assist you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey how May I help you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hello! how can I guide you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey how could I help you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi! how can I assist you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey there how can I help you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey there how can I solve problem of you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi! how can I guide you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey there how could I guide you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey how can I assist you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hello how would I guide you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi! how can I assist you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi how would I help you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi how would I solve problem of you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "Hello how would I solve problem of you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hello! how would I solve problem of you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hello how May I take care you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi how May I help you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hello how could I take care you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey how can I solve problem of you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi how May I help you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hello! how May I assist you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hello how can I assist you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "Hello how can I assist you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi! how May I guide you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi! how would I take care you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi how would I take care you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey how May I assist you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "Hello how would I take care you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hello! how May I solve problem of you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi! how May I take care you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi! how would I solve problem of you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey how could I take care you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "Hello how would I guide you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi! how would I guide you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hey how would I assist you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi! how could I assist you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi how would I solve problem of you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi! how could I take care you"
+    },
+    {
+        "act": "greet",
+        "slots": [],
+        "text": "hi! how would I assist you"
+    }
+]

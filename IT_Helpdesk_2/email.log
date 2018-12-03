@@ -1,0 +1,699 @@
+INFO:__main__:Started listening to new messages
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 500 291
+ERROR:__main__:Got 500 status code from iDARE: b'<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request.  Either the server is overloaded or there is an error in the application.</p>\n'
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:ExceptioniDARE responded problematically
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 500 291
+ERROR:__main__:Got 500 status code from iDARE: b'<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request.  Either the server is overloaded or there is an error in the application.</p>\n'
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:ExceptioniDARE responded problematically
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 500 291
+ERROR:__main__:Got 500 status code from iDARE: b'<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request.  Either the server is overloaded or there is an error in the application.</p>\n'
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:ExceptioniDARE responded problematically
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:Please ensure iDARE server is up, can not connect. Error: HTTPConnectionPool(host='192.168.0.129', port=8881): Max retries exceeded with url: /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f002d4ba5f8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:ExceptioniDARE server not up
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:Please ensure iDARE server is up, can not connect. Error: HTTPConnectionPool(host='192.168.0.129', port=8881): Max retries exceeded with url: /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f002d49c2b0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:ExceptioniDARE server not up
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:Please ensure iDARE server is up, can not connect. Error: HTTPConnectionPool(host='192.168.0.129', port=8881): Max retries exceeded with url: /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f002d4af358>: Failed to establish a new connection: [Errno 111] Connection refused',))
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:ExceptioniDARE server not up
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:Please ensure iDARE server is up, can not connect. Error: HTTPConnectionPool(host='192.168.0.129', port=8881): Max retries exceeded with url: /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f002d4ce208>: Failed to establish a new connection: [Errno 111] Connection refused',))
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:ExceptioniDARE server not up
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:Please ensure iDARE server is up, can not connect. Error: HTTPConnectionPool(host='192.168.0.129', port=8881): Max retries exceeded with url: /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f002d4eae80>: Failed to establish a new connection: [Errno 111] Connection refused',))
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:ExceptioniDARE server not up
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:Please ensure iDARE server is up, can not connect. Error: HTTPConnectionPool(host='192.168.0.129', port=8881): Max retries exceeded with url: /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f002d50d7b8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:ExceptioniDARE server not up
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:Please ensure iDARE server is up, can not connect. Error: HTTPConnectionPool(host='192.168.0.129', port=8881): Max retries exceeded with url: /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f002d4af2e8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:ExceptioniDARE server not up
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 500 291
+ERROR:__main__:Got 500 status code from iDARE: b'<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request.  Either the server is overloaded or there is an error in the application.</p>\n'
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:ExceptioniDARE responded problematically
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 500 291
+ERROR:__main__:Got 500 status code from iDARE: b'<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request.  Either the server is overloaded or there is an error in the application.</p>\n'
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:ExceptioniDARE responded problematically
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 500 291
+ERROR:__main__:Got 500 status code from iDARE: b'<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request.  Either the server is overloaded or there is an error in the application.</p>\n'
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:ExceptioniDARE responded problematically
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 500 291
+ERROR:__main__:Got 500 status code from iDARE: b'<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request.  Either the server is overloaded or there is an error in the application.</p>\n'
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:ExceptioniDARE responded problematically
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:Please ensure iDARE server is up, can not connect. Error: HTTPConnectionPool(host='192.168.0.129', port=8881): Max retries exceeded with url: /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f002d551198>: Failed to establish a new connection: [Errno 111] Connection refused',))
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:ExceptioniDARE server not up
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 500 21
+ERROR:__main__:Got 500 status code from iDARE: b'Internal Server Error'
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:ExceptioniDARE responded problematically
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 500 21
+ERROR:__main__:Got 500 status code from iDARE: b'Internal Server Error'
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:ExceptioniDARE responded problematically
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:Please ensure iDARE server is up, can not connect. Error: HTTPConnectionPool(host='192.168.0.129', port=8881): Max retries exceeded with url: /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f002d45f908>: Failed to establish a new connection: [Errno 111] Connection refused',))
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:ExceptioniDARE server not up
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:Please ensure iDARE server is up, can not connect. Error: HTTPConnectionPool(host='192.168.0.129', port=8881): Max retries exceeded with url: /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f002d4c4c88>: Failed to establish a new connection: [Errno 111] Connection refused',))
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:ExceptioniDARE server not up
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:Please ensure iDARE server is up, can not connect. Error: HTTPConnectionPool(host='192.168.0.129', port=8881): Max retries exceeded with url: /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f002d4ca4a8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:ExceptioniDARE server not up
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:Please ensure iDARE server is up, can not connect. Error: HTTPConnectionPool(host='192.168.0.129', port=8881): Max retries exceeded with url: /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f002d4ba908>: Failed to establish a new connection: [Errno 111] Connection refused',))
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:ExceptioniDARE server not up
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:Please ensure iDARE server is up, can not connect. Error: HTTPConnectionPool(host='192.168.0.129', port=8881): Max retries exceeded with url: /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f002d4f6940>: Failed to establish a new connection: [Errno 111] Connection refused',))
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:ExceptioniDARE server not up
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:Please ensure iDARE server is up, can not connect. Error: HTTPConnectionPool(host='192.168.0.129', port=8881): Max retries exceeded with url: /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f002d4f6320>: Failed to establish a new connection: [Errno 111] Connection refused',))
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:ExceptioniDARE server not up
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:Please ensure iDARE server is up, can not connect. Error: HTTPConnectionPool(host='192.168.0.129', port=8881): Max retries exceeded with url: /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f002d44cf98>: Failed to establish a new connection: [Errno 111] Connection refused',))
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:ExceptioniDARE server not up
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:Please ensure iDARE server is up, can not connect. Error: HTTPConnectionPool(host='192.168.0.129', port=8881): Max retries exceeded with url: /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f002d4eaef0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:ExceptioniDARE server not up
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:Please ensure iDARE server is up, can not connect. Error: HTTPConnectionPool(host='192.168.0.129', port=8881): Max retries exceeded with url: /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f002d490d30>: Failed to establish a new connection: [Errno 111] Connection refused',))
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:ExceptioniDARE server not up
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 500 21
+ERROR:__main__:Got 500 status code from iDARE: b'Internal Server Error'
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:ExceptioniDARE responded problematically
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 500 21
+ERROR:__main__:Got 500 status code from iDARE: b'Internal Server Error'
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:ExceptioniDARE responded problematically
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 500 21
+ERROR:__main__:Got 500 status code from iDARE: b'Internal Server Error'
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:ExceptioniDARE responded problematically
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 500 21
+ERROR:__main__:Got 500 status code from iDARE: b'Internal Server Error'
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:ExceptioniDARE responded problematically
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 500 21
+ERROR:__main__:Got 500 status code from iDARE: b'Internal Server Error'
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:ExceptioniDARE responded problematically
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 500 21
+ERROR:__main__:Got 500 status code from iDARE: b'Internal Server Error'
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:ExceptioniDARE responded problematically
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 500 21
+ERROR:__main__:Got 500 status code from iDARE: b'Internal Server Error'
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:ExceptioniDARE responded problematically
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 500 21
+ERROR:__main__:Got 500 status code from iDARE: b'Internal Server Error'
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:ExceptioniDARE responded problematically
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:Please ensure iDARE server is up, can not connect. Error: HTTPConnectionPool(host='192.168.0.129', port=8881): Max retries exceeded with url: /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f002d4c4d30>: Failed to establish a new connection: [Errno 111] Connection refused',))
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:ExceptioniDARE server not up
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:Please ensure iDARE server is up, can not connect. Error: HTTPConnectionPool(host='192.168.0.129', port=8881): Max retries exceeded with url: /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f002d4aefd0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+ERROR:__main__:ExceptioniDARE server not up
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9b05050915c0', 'emailId': '166c9b05050915c0'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9b05050915c0/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 200 60
+INFO:__main__:IDARE_REPLY:
+Hey you there?
+
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/send?alt=json
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9b05050915c0/modify?alt=json
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9bcc55943b8f', 'emailId': '166c9bcc55943b8f'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9bcc55943b8f/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 500 21
+ERROR:__main__:Got 500 status code from iDARE: b'Internal Server Error'
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9bcc55943b8f/modify?alt=json
+ERROR:__main__:ExceptioniDARE responded problematically
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9bcc55943b8f', 'emailId': '166c9bcc55943b8f'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9bcc55943b8f/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 500 21
+ERROR:__main__:Got 500 status code from iDARE: b'Internal Server Error'
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9bcc55943b8f/modify?alt=json
+ERROR:__main__:ExceptioniDARE responded problematically
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9bcc55943b8f', 'emailId': '166c9bcc55943b8f'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9bcc55943b8f/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 500 21
+ERROR:__main__:Got 500 status code from iDARE: b'Internal Server Error'
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9bcc55943b8f/modify?alt=json
+ERROR:__main__:ExceptioniDARE responded problematically
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9bcc55943b8f', 'emailId': '166c9bcc55943b8f'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9bcc55943b8f/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 500 21
+ERROR:__main__:Got 500 status code from iDARE: b'Internal Server Error'
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9bcc55943b8f/modify?alt=json
+ERROR:__main__:ExceptioniDARE responded problematically
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9bcc55943b8f', 'emailId': '166c9bcc55943b8f'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9bcc55943b8f/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 500 21
+ERROR:__main__:Got 500 status code from iDARE: b'Internal Server Error'
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9bcc55943b8f/modify?alt=json
+ERROR:__main__:ExceptioniDARE responded problematically
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9bcc55943b8f', 'emailId': '166c9bcc55943b8f'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9bcc55943b8f/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 500 21
+ERROR:__main__:Got 500 status code from iDARE: b'Internal Server Error'
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9bcc55943b8f/modify?alt=json
+ERROR:__main__:ExceptioniDARE responded problematically
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9bcc55943b8f', 'emailId': '166c9bcc55943b8f'}
+
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9b05050915c0 {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9bcc55943b8f {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9bcc55943b8f {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9bcc55943b8f {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9bcc55943b8f {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9bcc55943b8f {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9bcc55943b8f {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}
+166c9bcc55943b8f {'q': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'email_id': 'aman@suprath.com'}DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9bcc55943b8f/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 500 21
+ERROR:__main__:Got 500 status code from iDARE: b'Internal Server Error'
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9bcc55943b8f/modify?alt=json
+ERROR:__main__:ExceptioniDARE responded problematically
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9bcc55943b8f', 'emailId': '166c9bcc55943b8f'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9bcc55943b8f/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 500 21
+ERROR:__main__:Got 500 status code from iDARE: b'Internal Server Error'
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9bcc55943b8f/modify?alt=json
+ERROR:__main__:ExceptioniDARE responded problematically
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9bcc55943b8f', 'emailId': '166c9bcc55943b8f'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9bcc55943b8f/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 500 21
+ERROR:__main__:Got 500 status code from iDARE: b'Internal Server Error'
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9bcc55943b8f/modify?alt=json
+ERROR:__main__:ExceptioniDARE responded problematically
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9bcc55943b8f', 'emailId': '166c9bcc55943b8f'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9bcc55943b8f/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 500 21
+ERROR:__main__:Got 500 status code from iDARE: b'Internal Server Error'
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9bcc55943b8f/modify?alt=json
+ERROR:__main__:ExceptioniDARE responded problematically
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9bcc55943b8f', 'emailId': '166c9bcc55943b8f'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9bcc55943b8f/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 500 21
+ERROR:__main__:Got 500 status code from iDARE: b'Internal Server Error'
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9bcc55943b8f/modify?alt=json
+ERROR:__main__:ExceptioniDARE responded problematically
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9bcc55943b8f', 'emailId': '166c9bcc55943b8f'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9bcc55943b8f/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 500 21
+ERROR:__main__:Got 500 status code from iDARE: b'Internal Server Error'
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9bcc55943b8f/modify?alt=json
+ERROR:__main__:ExceptioniDARE responded problematically
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9bcc55943b8f', 'emailId': '166c9bcc55943b8f'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9bcc55943b8f/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 500 21
+ERROR:__main__:Got 500 status code from iDARE: b'Internal Server Error'
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9bcc55943b8f/modify?alt=json
+ERROR:__main__:ExceptioniDARE responded problematically
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9bcc55943b8f', 'emailId': '166c9bcc55943b8f'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9bcc55943b8f/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 500 21
+ERROR:__main__:Got 500 status code from iDARE: b'Internal Server Error'
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9bcc55943b8f/modify?alt=json
+ERROR:__main__:ExceptioniDARE responded problematically
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9bcc55943b8f', 'emailId': '166c9bcc55943b8f'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9bcc55943b8f/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 500 21
+ERROR:__main__:Got 500 status code from iDARE: b'Internal Server Error'
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9bcc55943b8f/modify?alt=json
+ERROR:__main__:ExceptioniDARE responded problematically
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9bcc55943b8f', 'emailId': '166c9bcc55943b8f'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9bcc55943b8f/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 500 21
+ERROR:__main__:Got 500 status code from iDARE: b'Internal Server Error'
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9bcc55943b8f/modify?alt=json
+ERROR:__main__:ExceptioniDARE responded problematically
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9bcc55943b8f', 'emailId': '166c9bcc55943b8f'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9bcc55943b8f/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 500 21
+ERROR:__main__:Got 500 status code from iDARE: b'Internal Server Error'
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9bcc55943b8f/modify?alt=json
+ERROR:__main__:ExceptioniDARE responded problematically
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9bcc55943b8f', 'emailId': '166c9bcc55943b8f'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9bcc55943b8f/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 500 21
+ERROR:__main__:Got 500 status code from iDARE: b'Internal Server Error'
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9bcc55943b8f/modify?alt=json
+ERROR:__main__:ExceptioniDARE responded problematically
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9bcc55943b8f', 'emailId': '166c9bcc55943b8f'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9bcc55943b8f/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 500 21
+ERROR:__main__:Got 500 status code from iDARE: b'Internal Server Error'
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9bcc55943b8f/modify?alt=json
+ERROR:__main__:ExceptioniDARE responded problematically
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9bcc55943b8f', 'emailId': '166c9bcc55943b8f'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9bcc55943b8f/modify?alt=json
+ERROR:__main__:Please ensure iDARE server is up, can not connect. Error: HTTPConnectionPool(host='192.168.0.129', port=8881): Max retries exceeded with url: /email/166c9bcc55943b8f/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f002d433a20>: Failed to establish a new connection: [Errno 111] Connection refused',))
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9bcc55943b8f/modify?alt=json
+ERROR:__main__:ExceptioniDARE server not up
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9bcc55943b8f', 'emailId': '166c9bcc55943b8f'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9bcc55943b8f/modify?alt=json
+ERROR:__main__:Please ensure iDARE server is up, can not connect. Error: HTTPConnectionPool(host='192.168.0.129', port=8881): Max retries exceeded with url: /email/166c9bcc55943b8f/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f002d4ae668>: Failed to establish a new connection: [Errno 111] Connection refused',))
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9bcc55943b8f/modify?alt=json
+ERROR:__main__:ExceptioniDARE server not up
+WARNING:__main__:Sleeping for 10 seconds
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9bcc55943b8f', 'emailId': '166c9bcc55943b8f'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9bcc55943b8f/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 200 1979
+INFO:__main__:IDARE_REPLY:
+<html>
+      <head></head>
+      <body style="text-align:justify;">
+       <p>Dear John Mann,
+
+</p><p>An email will be sent to you with a security code. I will need the code to reset the password. Can I go ahead with it?</p><br>
+        <a href='http://localhost:8000/main?token=092ad6b6f5a307342a717bc7ccf654713d99ba496ebcb79e79a93554'>Click here to chat directly with me, your virtual agent, for faster resolution</a><br>
+        <br>
+        <span style="font-family: serif;"><i>Were you satisfied with this resolution?</i></span>
+        <br>
+        <div id="up" style="display:inline-flex;">
+            <a href="http://google.com">
+                <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Face-smile.svg/48px-Face-smile.svg.png" alt = "resolved" style="height:3em;width:3em" >
+            </a>
+        </div>
+        <div id="down" style="display:inline-flex;">
+            <a href="http://google.com">
+                <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Face-plain.svg/48px-Face-plain.svg.png" alt = "unresolved" style="height:3em;width:3em" >
+            </a>
+        </div>
+        <br>
+        <p style="font-family: serif; font-size: x-small; text-align: justify;">
+            <i>This is an AI generated email. In case the problem remains unresolved our
+             customer care representative will get in touch with you within 24 hours. Please note down the
+            reference number 612123151 for future reference.</i><br><br>
+        </p>
+        <p>
+            Regards,
+            <br>
+            Customer Care<br>
+            Suprath Technologies
+        </p>
+      </body>
+    </html>
+    
+
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/send?alt=json
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9bcc55943b8f/modify?alt=json
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': '', 'threadId': '166c9c0c3ce61331', 'emailId': '166c9c0c3ce61331'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9c0c3ce61331/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 200 1979
+INFO:__main__:IDARE_REPLY:
+<html>
+      <head></head>
+      <body style="text-align:justify;">
+       <p>Dear John Mann,
+
+</p><p>An email will be sent to you with a security code. I will need the code to reset the password. Can I go ahead with it?</p><br>
+        <a href='http://localhost:8000/main?token=01105ea2a2ef249960be42af90dec28262c5d05cee8b454ea2895e61'>Click here to chat directly with me, your virtual agent, for faster resolution</a><br>
+        <br>
+        <span style="font-family: serif;"><i>Were you satisfied with this resolution?</i></span>
+        <br>
+        <div id="up" style="display:inline-flex;">
+            <a href="http://google.com">
+                <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Face-smile.svg/48px-Face-smile.svg.png" alt = "resolved" style="height:3em;width:3em" >
+            </a>
+        </div>
+        <div id="down" style="display:inline-flex;">
+            <a href="http://google.com">
+                <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Face-plain.svg/48px-Face-plain.svg.png" alt = "unresolved" style="height:3em;width:3em" >
+            </a>
+        </div>
+        <br>
+        <p style="font-family: serif; font-size: x-small; text-align: justify;">
+            <i>This is an AI generated email. In case the problem remains unresolved our
+             customer care representative will get in touch with you within 24 hours. Please note down the
+            reference number 612123151 for future reference.</i><br><br>
+        </p>
+        <p>
+            Regards,
+            <br>
+            Customer Care<br>
+            Suprath Technologies
+        </p>
+      </body>
+    </html>
+    
+
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/send?alt=json
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9c0c3ce61331/modify?alt=json
+INFO:__main__:NEW_EMAIL:
+{'sender': 'aman@suprath.com', 'CC': [''], 'message': 'Hello team,\n\nI want to reset my salesforce password, my user id is john1234.\n\nCould you please help?\n\nThanks,\nJohn Mann\n', 'subject': 'hi', 'threadId': '166c9c302f5bb1b1', 'emailId': '166c9c302f5bb1b1'}
+
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.0.129:8881
+DEBUG:urllib3.connectionpool:http://192.168.0.129:8881 "GET /email/166c9c302f5bb1b1/respond?q=Hello+team%2C%0A%0AI+want+to+reset+my+salesforce+password%2C+my+user+id+is+john1234.%0A%0ACould+you+please+help%3F%0A%0AThanks%2C%0AJohn+Mann%0A&email_id=aman%40suprath.com HTTP/1.1" 200 1979
+INFO:__main__:IDARE_REPLY:
+<html>
+      <head></head>
+      <body style="text-align:justify;">
+       <p>Dear John Mann,
+
+</p><p>An email will be sent to you with a security code. I will need the code to reset the password. Can I go ahead with it?</p><br>
+        <a href='http://localhost:8000/main?token=33a51659e472e8b3457c3ccd5c5b114c93695799f9cdeeff6e0beb73'>Click here to chat directly with me, your virtual agent, for faster resolution</a><br>
+        <br>
+        <span style="font-family: serif;"><i>Were you satisfied with this resolution?</i></span>
+        <br>
+        <div id="up" style="display:inline-flex;">
+            <a href="http://google.com">
+                <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Face-smile.svg/48px-Face-smile.svg.png" alt = "resolved" style="height:3em;width:3em" >
+            </a>
+        </div>
+        <div id="down" style="display:inline-flex;">
+            <a href="http://google.com">
+                <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Face-plain.svg/48px-Face-plain.svg.png" alt = "unresolved" style="height:3em;width:3em" >
+            </a>
+        </div>
+        <br>
+        <p style="font-family: serif; font-size: x-small; text-align: justify;">
+            <i>This is an AI generated email. In case the problem remains unresolved our
+             customer care representative will get in touch with you within 24 hours. Please note down the
+            reference number 612123151 for future reference.</i><br><br>
+        </p>
+        <p>
+            Regards,
+            <br>
+            Customer Care<br>
+            Suprath Technologies
+        </p>
+      </body>
+    </html>
+    
+
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/send?alt=json
+INFO:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/gmail/v1/users/me/messages/166c9c302f5bb1b1/modify?alt=json

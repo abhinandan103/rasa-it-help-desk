@@ -1,0 +1,1502 @@
+[
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "it is that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "It is with me"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "I received that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "ok"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "It is."
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "it is that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes I do have that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "it is so."
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "it is that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yup"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes sure!"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "ok"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "fine"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "thats fine"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "fine"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes it is that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "Yes I can do that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "I found that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes I can give you that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "I received that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "i have done that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "thats fine"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "that's fine"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "it is that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yeah"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes please"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "that's fine"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "it is that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "i have done that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "that's fine"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "sure"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "please do"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes sure!"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "i got that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yeah"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "sure"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "I found that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "no problem, go ahead"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "sure go ahead"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes!"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes go ahead"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes it is that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "i have done that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "i did that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes please"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes I can give you that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "I received that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "sure"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yeah sure"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "ok"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "i did that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "Yes I can do that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes!"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "please go ahead"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "i have done that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "it is that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "no problem, go ahead"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "Yes I am on it"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "fine"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes!"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes it is that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yup"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "thats fine"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes do it"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes it is that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "that's fine"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "no problem, go ahead"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "i have done that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes do it"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes it is that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "i have done that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes!"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes!"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "it is so."
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "please do"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "It is."
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "Yes I am on it"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "thats fine"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes it is with me"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes I have that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "thats fine"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "I received that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "Yes I am on it"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes I have that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "i got that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes it is that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "i have done that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes please"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "I found that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes please"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yup"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "It is with me"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "thats fine"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes I do have that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "It is with me"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes please"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "sure go ahead"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "it is that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "ok"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes go ahead"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "Yes I can do that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "fine"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes go ahead"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes please"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes it is that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes it is with me"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "i got that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes I can give you that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes I can give you that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "Yes I am on it"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "It is."
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes it is that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "thats fine"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "ok"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "sure go ahead"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yeah sure"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes sure!"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yeah sure"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes I do have that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes I can give you that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "please go ahead"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yeah it seems to be the case"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yup"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes do it"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "i got that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes I do have that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes I have that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes it is that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "it is that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "it is that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "it is that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "i did that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "please do"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes it is that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "ok"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yeah sure"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes it is that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes I have that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "I found that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes I have that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "fine"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yeah"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "It is."
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes please"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "Yes I am on it"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "no problem, go ahead"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes I can give you that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yeah sure"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "I received that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes please"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes go ahead"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "sure"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yeah sure"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes sure!"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "no problem, go ahead"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes I do have that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yeah it seems to be the case"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes it is with me"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes go ahead"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes!"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yeah sure"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes go ahead"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "it is so."
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "please go ahead"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes sure!"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "fine"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes it is that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes it is that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes I can give you that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "no problem, go ahead"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes it is that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "yes do it"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "i have done that"
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "It is."
+    },
+    {
+        "act": "affirm",
+        "slots": [],
+        "text": "ok"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 13,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "mail was sent"
+            }
+        ],
+        "text": "mail was sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 22,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "email probably is sent"
+            }
+        ],
+        "text": "email probably is sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 20,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "e-mail has been sent"
+            }
+        ],
+        "text": "e-mail has been sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 12,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "mail is sent"
+            }
+        ],
+        "text": "mail is sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 23,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "e-mail probably is sent"
+            }
+        ],
+        "text": "e-mail probably is sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 16,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "mail is now sent"
+            }
+        ],
+        "text": "mail is now sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 15,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "e-mail was sent"
+            }
+        ],
+        "text": "e-mail was sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 19,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "email has been sent"
+            }
+        ],
+        "text": "email has been sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 20,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "e-mail has been sent"
+            }
+        ],
+        "text": "e-mail has been sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 20,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "e-mail has been sent"
+            }
+        ],
+        "text": "e-mail has been sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 20,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "e-mail has been sent"
+            }
+        ],
+        "text": "e-mail has been sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 21,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "mail probably is sent"
+            }
+        ],
+        "text": "mail probably is sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 17,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "email is now sent"
+            }
+        ],
+        "text": "email is now sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 22,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "email probably is sent"
+            }
+        ],
+        "text": "email probably is sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 16,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "mail is now sent"
+            }
+        ],
+        "text": "mail is now sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 20,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "e-mail has been sent"
+            }
+        ],
+        "text": "e-mail has been sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 13,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "mail was sent"
+            }
+        ],
+        "text": "mail was sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 22,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "email probably is sent"
+            }
+        ],
+        "text": "email probably is sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 21,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "mail probably is sent"
+            }
+        ],
+        "text": "mail probably is sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 20,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "e-mail has been sent"
+            }
+        ],
+        "text": "e-mail has been sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 17,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "email is now sent"
+            }
+        ],
+        "text": "email is now sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 22,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "email probably is sent"
+            }
+        ],
+        "text": "email probably is sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 19,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "email has been sent"
+            }
+        ],
+        "text": "email has been sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 18,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "mail has been sent"
+            }
+        ],
+        "text": "mail has been sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 18,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "mail has been sent"
+            }
+        ],
+        "text": "mail has been sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 19,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "email has been sent"
+            }
+        ],
+        "text": "email has been sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 17,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "email is now sent"
+            }
+        ],
+        "text": "email is now sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 21,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "mail probably is sent"
+            }
+        ],
+        "text": "mail probably is sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 17,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "email is now sent"
+            }
+        ],
+        "text": "email is now sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 14,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "e-mail is sent"
+            }
+        ],
+        "text": "e-mail is sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 18,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "e-mail is now sent"
+            }
+        ],
+        "text": "e-mail is now sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 23,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "e-mail probably is sent"
+            }
+        ],
+        "text": "e-mail probably is sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 23,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "e-mail probably is sent"
+            }
+        ],
+        "text": "e-mail probably is sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 13,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "mail was sent"
+            }
+        ],
+        "text": "mail was sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 18,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "e-mail is now sent"
+            }
+        ],
+        "text": "e-mail is now sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 23,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "e-mail probably is sent"
+            }
+        ],
+        "text": "e-mail probably is sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 14,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "email was sent"
+            }
+        ],
+        "text": "email was sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 18,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "mail has been sent"
+            }
+        ],
+        "text": "mail has been sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 12,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "mail is sent"
+            }
+        ],
+        "text": "mail is sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 21,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "mail probably is sent"
+            }
+        ],
+        "text": "mail probably is sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 15,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "e-mail was sent"
+            }
+        ],
+        "text": "e-mail was sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 13,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "mail was sent"
+            }
+        ],
+        "text": "mail was sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 16,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "mail is now sent"
+            }
+        ],
+        "text": "mail is now sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 14,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "email was sent"
+            }
+        ],
+        "text": "email was sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 15,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "e-mail was sent"
+            }
+        ],
+        "text": "e-mail was sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 16,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "mail is now sent"
+            }
+        ],
+        "text": "mail is now sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 18,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "e-mail is now sent"
+            }
+        ],
+        "text": "e-mail is now sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 16,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "mail is now sent"
+            }
+        ],
+        "text": "mail is now sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 20,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "e-mail has been sent"
+            }
+        ],
+        "text": "e-mail has been sent"
+    },
+    {
+        "act": "affirm",
+        "slots": [
+            {
+                "end": 15,
+                "slot": "email_sent",
+                "start": 0,
+                "value": "e-mail was sent"
+            }
+        ],
+        "text": "e-mail was sent"
+    }
+]

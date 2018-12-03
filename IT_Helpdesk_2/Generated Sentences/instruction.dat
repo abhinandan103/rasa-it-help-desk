@@ -1,0 +1,352 @@
+[
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please make sure that PDF should be saved on shared drive but hard drive"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please ensure that you save the PDF directly to your hard drive and not to a shared drive"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please clear that you save the PDF directly to your hard drive and not to a shared drive"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "pls clear that  PDF should be save directly to hard drive and not shared drive"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "pls check that  PDF should be save directly to hard drive and not shared drive"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "pls ensure that  PDF should be save directly to hard drive and not shared drive"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please make sure that PDF should be saved on shared drive but hard drive"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "pls determine that you save the PDF directly to your hard drive and not to a shared drive. You can transfer it later"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please confirm that PDF should be saved on shared drive but hard drive"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please make sure that  PDF should be save directly to hard drive and not shared drive"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please check that  PDF should be save directly to hard drive and not shared drive"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "pls determine that you save the PDF directly to your hard drive and not to a shared drive"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please make it clear that you save the PDF directly to your hard drive and not to a shared drive. You can transfer it later"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "pls make sure that you save the PDF directly to your hard drive and not to a shared drive. You can transfer it later"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "pls check that  PDF should be save directly to hard drive and not shared drive"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please make it clear that you save the PDF directly to your hard drive and not to a shared drive"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please determine that PDF should be saved on shared drive but hard drive"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please make sure that you save the PDF directly to your hard drive and not to a shared drive. You can transfer it later"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please clear that PDF should be saved on shared drive but hard drive"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "pls make sure that you save the PDF directly to your hard drive and not to a shared drive. You can transfer it later"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please determine that  PDF should be save directly to hard drive and not shared drive"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please clear that you save the PDF directly to your hard drive and not to a shared drive. You can transfer it later"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "pls confirm that you save the PDF directly to your hard drive and not to a shared drive"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "pls make sure that you save the PDF directly to your hard drive and not to a shared drive"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please ensure that  PDF should be save directly to hard drive and not shared drive"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please determine that  PDF should be save directly to hard drive and not shared drive"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please clear that PDF should be saved on shared drive but hard drive"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "pls determine that you save the PDF directly to your hard drive and not to a shared drive"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "pls make sure that PDF should be saved on shared drive but hard drive"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please make it clear that  PDF should be save directly to hard drive and not shared drive"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please check that PDF should be saved on shared drive but hard drive"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "pls confirm that you save the PDF directly to your hard drive and not to a shared drive. You can transfer it later"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "pls make it clear that you save the PDF directly to your hard drive and not to a shared drive. You can transfer it later"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please determine that PDF should be saved on shared drive but hard drive"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "pls make it clear that you save the PDF directly to your hard drive and not to a shared drive. You can transfer it later"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "pls go through user instructions in img to logging in . You can login through user name and password in the license email"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please read through user instructions in picture into logging in . you may login through username and password found in the license email."
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "pls go by guide in picture to log in . You can login through user name and password in the license email"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please follow through user instructions in img to logging in . You can login through user name and password in the license email"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "pls follow guides in pic into login . You can login through username and password in your email account"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please follow through manual in image into login . You can login through user name and password in the license email"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "pls follow through instruction in pic in to login . \n\nYou can give the username and password you received with the license email."
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please go through instructions in pic into login . You can login through username and password in your email account"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please read through instruction in img into access . \n\nYou can give the username and password you received with the license email."
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "pls read through instructions in pic in to login . you may login through username and password found in the license email."
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please go by user guide in image into login . \n\nYou can give the username and password you received with the license email."
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "pls go through instructions in img into logging in . \n\nYou can give the username and password you received with the license email."
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please follow instructions in image to logging in . You can login through username and password in your email account"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please stick to user instructions in img to log in . you may login through username and password found in the license email."
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "pls go by instruction in images in to log in . You can login through username and password in your email account"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please stick to instruction in image into logging in . You can login through user name and password in the license email"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please follow through manual in img into access . You can login through user name and password in the license email"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "pls go through manual in pic in to logging in . you may login through username and password found in the license email."
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "pls go by guide in image into login . You can login through username and password in your email account"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "pls read through guide in img to logging in . You can login through username and password in your email account"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "pls go through instructions in image in to logging in . \n\nYou can give the username and password you received with the license email."
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please go through user guide in images into login . You can login through user name and password in the license email"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please go by manual in img in to log in . You can login through username and password in your email account"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please follow instruction in images in to access . You can login through username and password in your email account"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please follow through guide in image into login . you may login through username and password found in the license email."
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "pls follow guides in image to login . You can login through username and password in your email account"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "pls stick to user instructions in img in to logging in . \n\nYou can give the username and password you received with the license email."
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "pls read through manual in image to login . you may login through username and password found in the license email."
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please go through guides in image to log in . \n\nYou can give the username and password you received with the license email."
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please go through user guide in images into login . You can login through user name and password in the license email"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please follow guides in pic into access . You can login through username and password in your email account"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please go by instructions in img in to access . You can login through user name and password in the license email"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "please go by guide in pic to login . you may login through username and password found in the license email."
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "pls follow user guide in images in to log in . You can login through username and password in your email account"
+    },
+    {
+        "act": "instruction",
+        "slots": [],
+        "text": "pls follow instruction in img in to access . \n\nYou can give the username and password you received with the license email."
+    }
+]

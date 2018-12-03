@@ -1,0 +1,902 @@
+[
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "no it isnt"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "No its ok"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "no it is not"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "that is not"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "no I dont want"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "no"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "nah"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "no it is not"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "no"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "that is not"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "no I dont want"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "nope"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "no I dont want"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "nope"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "that is not"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "No its ok"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "nah"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "no it is not"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "nope"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "No its ok"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "no it isnt"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "no thanks"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "no"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "no it isnt"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "no I dont want"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "no"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "no it isnt"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "no it is not"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "nope"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "no I dont want"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "nah"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "no"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "no"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "No its ok"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "no"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "no I dont want"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "nope"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "nah"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "no I dont want"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "no it isnt"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "nah"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "no"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "that is not"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "nope"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "no it isnt"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 16,
+                "slot": "admin_access",
+                "start": 4,
+                "value": "admin access"
+            }
+        ],
+        "text": "nah admin access"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 38,
+                "slot": "admin_access",
+                "start": 15,
+                "value": "access as administrator"
+            }
+        ],
+        "text": "no I dont want access as administrator"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 23,
+                "slot": "admin_access",
+                "start": 11,
+                "value": "admin access"
+            }
+        ],
+        "text": "no it isnt admin access"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 34,
+                "slot": "admin_access",
+                "start": 11,
+                "value": "access as administrator"
+            }
+        ],
+        "text": "no it isnt access as administrator"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 36,
+                "slot": "admin_access",
+                "start": 13,
+                "value": "access as administrator"
+            }
+        ],
+        "text": "no it is not access as administrator"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 24,
+                "slot": "admin_access",
+                "start": 4,
+                "value": "administrator access"
+            }
+        ],
+        "text": "nah administrator access"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 17,
+                "slot": "admin_access",
+                "start": 5,
+                "value": "admin access"
+            }
+        ],
+        "text": "nope admin access"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 26,
+                "slot": "admin_access",
+                "start": 3,
+                "value": "access as administrator"
+            }
+        ],
+        "text": "no access as administrator"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 30,
+                "slot": "admin_access",
+                "start": 10,
+                "value": "administrator access"
+            }
+        ],
+        "text": "No its ok administrator access"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 27,
+                "slot": "admin_access",
+                "start": 15,
+                "value": "admin access"
+            }
+        ],
+        "text": "no I dont want admin access"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 23,
+                "slot": "admin_access",
+                "start": 3,
+                "value": "administrator access"
+            }
+        ],
+        "text": "no administrator access"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 26,
+                "slot": "admin_access",
+                "start": 3,
+                "value": "access as administrator"
+            }
+        ],
+        "text": "no access as administrator"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 22,
+                "slot": "admin_access",
+                "start": 10,
+                "value": "admin access"
+            }
+        ],
+        "text": "No its ok admin access"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 33,
+                "slot": "admin_access",
+                "start": 10,
+                "value": "access as administrator"
+            }
+        ],
+        "text": "No its ok access as administrator"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 25,
+                "slot": "admin_access",
+                "start": 10,
+                "value": "access as admin"
+            }
+        ],
+        "text": "no thanks access as admin"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 27,
+                "slot": "admin_access",
+                "start": 12,
+                "value": "access as admin"
+            }
+        ],
+        "text": "that is not access as admin"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 25,
+                "slot": "admin_access",
+                "start": 5,
+                "value": "administrator access"
+            }
+        ],
+        "text": "nope administrator access"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 26,
+                "slot": "admin_access",
+                "start": 11,
+                "value": "access as admin"
+            }
+        ],
+        "text": "no it isnt access as admin"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 15,
+                "slot": "admin_access",
+                "start": 3,
+                "value": "admin access"
+            }
+        ],
+        "text": "no admin access"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 34,
+                "slot": "admin_access",
+                "start": 11,
+                "value": "access as administrator"
+            }
+        ],
+        "text": "no it isnt access as administrator"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 24,
+                "slot": "admin_access",
+                "start": 12,
+                "value": "admin access"
+            }
+        ],
+        "text": "that is not admin access"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 33,
+                "slot": "admin_access",
+                "start": 10,
+                "value": "access as administrator"
+            }
+        ],
+        "text": "No its ok access as administrator"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 33,
+                "slot": "admin_access",
+                "start": 10,
+                "value": "access as administrator"
+            }
+        ],
+        "text": "no thanks access as administrator"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 33,
+                "slot": "admin_access",
+                "start": 10,
+                "value": "access as administrator"
+            }
+        ],
+        "text": "No its ok access as administrator"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 31,
+                "slot": "admin_access",
+                "start": 11,
+                "value": "administrator access"
+            }
+        ],
+        "text": "no it isnt administrator access"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 32,
+                "slot": "admin_access",
+                "start": 12,
+                "value": "administrator access"
+            }
+        ],
+        "text": "that is not administrator access"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 25,
+                "slot": "admin_access",
+                "start": 10,
+                "value": "access as admin"
+            }
+        ],
+        "text": "No its ok access as admin"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 26,
+                "slot": "admin_access",
+                "start": 11,
+                "value": "access as admin"
+            }
+        ],
+        "text": "no it isnt access as admin"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 30,
+                "slot": "admin_access",
+                "start": 15,
+                "value": "access as admin"
+            }
+        ],
+        "text": "no I dont want access as admin"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 26,
+                "slot": "admin_access",
+                "start": 11,
+                "value": "access as admin"
+            }
+        ],
+        "text": "no it isnt access as admin"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 28,
+                "slot": "admin_access",
+                "start": 13,
+                "value": "access as admin"
+            }
+        ],
+        "text": "no it is not access as admin"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 27,
+                "slot": "admin_access",
+                "start": 12,
+                "value": "access as admin"
+            }
+        ],
+        "text": "that is not access as admin"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 22,
+                "slot": "admin_access",
+                "start": 10,
+                "value": "admin access"
+            }
+        ],
+        "text": "no thanks admin access"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 33,
+                "slot": "admin_access",
+                "start": 10,
+                "value": "access as administrator"
+            }
+        ],
+        "text": "No its ok access as administrator"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 26,
+                "slot": "admin_access",
+                "start": 3,
+                "value": "access as administrator"
+            }
+        ],
+        "text": "no access as administrator"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 19,
+                "slot": "admin_access",
+                "start": 4,
+                "value": "access as admin"
+            }
+        ],
+        "text": "nah access as admin"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 38,
+                "slot": "admin_access",
+                "start": 15,
+                "value": "access as administrator"
+            }
+        ],
+        "text": "no I dont want access as administrator"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 27,
+                "slot": "admin_access",
+                "start": 12,
+                "value": "access as admin"
+            }
+        ],
+        "text": "that is not access as admin"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 31,
+                "slot": "admin_access",
+                "start": 11,
+                "value": "administrator access"
+            }
+        ],
+        "text": "no it isnt administrator access"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 24,
+                "slot": "admin_access",
+                "start": 12,
+                "value": "admin access"
+            }
+        ],
+        "text": "that is not admin access"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 16,
+                "slot": "admin_access",
+                "start": 4,
+                "value": "admin access"
+            }
+        ],
+        "text": "nah admin access"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 31,
+                "slot": "admin_access",
+                "start": 11,
+                "value": "administrator access"
+            }
+        ],
+        "text": "no it isnt administrator access"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 24,
+                "slot": "admin_access",
+                "start": 4,
+                "value": "administrator access"
+            }
+        ],
+        "text": "nah administrator access"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 31,
+                "slot": "admin_access",
+                "start": 11,
+                "value": "administrator access"
+            }
+        ],
+        "text": "no it isnt administrator access"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 17,
+                "slot": "admin_access",
+                "start": 5,
+                "value": "admin access"
+            }
+        ],
+        "text": "nope admin access"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 28,
+                "slot": "admin_access",
+                "start": 5,
+                "value": "access as administrator"
+            }
+        ],
+        "text": "nope access as administrator"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 30,
+                "slot": "admin_access",
+                "start": 10,
+                "value": "administrator access"
+            }
+        ],
+        "text": "No its ok administrator access"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 27,
+                "slot": "admin_access",
+                "start": 4,
+                "value": "access as administrator"
+            }
+        ],
+        "text": "nah access as administrator"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 23,
+                "slot": "admin_access",
+                "start": 3,
+                "value": "administrator access"
+            }
+        ],
+        "text": "no administrator access"
+    },
+    {
+        "act": "deny",
+        "slots": [
+            {
+                "end": 26,
+                "slot": "admin_access",
+                "start": 3,
+                "value": "access as administrator"
+            }
+        ],
+        "text": "no access as administrator"
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "Sorry, admin rights are not available as per the policy."
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "No as per policy we don't give admin rights to the users on this machine."
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "No as per policy we don't give admin rights to the users on this machine."
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "Sorry, admin rights are not available as per the policy."
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "Sorry, admin rights are not available as per the policy."
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "I am afraid you dont have administrator access according to the policy."
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "No as per policy we don't give admin rights to the users on this machine."
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "No as per policy we don't give admin rights to the users on this machine."
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "I am afraid you dont have administrator access according to the policy."
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "I am afraid you dont have administrator access according to the policy."
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "Sorry, admin rights are not available as per the policy."
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "No as per policy we don't give admin rights to the users on this machine."
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "I am afraid you dont have administrator access according to the policy."
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "Sorry, admin rights are not available as per the policy."
+    },
+    {
+        "act": "deny",
+        "slots": [],
+        "text": "I am afraid you dont have administrator access according to the policy."
+    }
+]

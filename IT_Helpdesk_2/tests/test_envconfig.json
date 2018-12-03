@@ -1,0 +1,31 @@
+{
+        "redis_host":"10.10.0.4",
+        "redis_port":"6379",
+        "redis_pwd":"",
+        "db_host":"10.10.0.4",
+        "db_port":"3306",
+        "db_username":"agentdbuser",
+        "db_password":"agentdbuser@123",
+        "agentapi":"",
+        "tracker_encrypt":"False",
+        "keyfile_location":"",
+        "userchannelport":"8090",
+        "userchannelport2":"5090",
+        "hachannelport":"8090",
+        "conv_api_port":"8082",
+        "conv_listen_address":"http://idare.eastus.cloudapp.azure.com:8082/",	
+        "sentiment_api":"http://10.10.0.4:8083/",
+        "sentiment_api_timeout":"1",
+        "server_ip": "0.0.0.0",
+        "server_port": "8899",
+        "IR_api": "http://192.168.0.129/",
+        "IR_port": "8900",
+        "domain": "../domain.json",
+        "interpreter_dir": "../nlu_model/default/current",
+        "admin_port": "9000",
+        "nlu_training_file": "./Generated Sentences/nlu_training.json",
+	"path_to_glove":"../glove.6B.300d.txt",
+        "static_server": "http://idare.eastus.cloudapp.azure.com:8091"
+
+        }
+

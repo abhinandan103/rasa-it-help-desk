@@ -1,0 +1,51 @@
+{
+    "language": "en",
+    "pipeline": [
+        {
+            "name": "tokenizer_custom",
+            "class": "suprath_nlu.tokenizer.TokenizerCustom"
+        },
+        {
+            "BILOU_flag": true,
+            "features": [
+                [
+                    "low",
+                    "title",
+                    "upper"
+                ],
+                [
+                    "bias",
+                    "low",
+                    "prefix5",
+                    "prefix2",
+                    "suffix5",
+                    "suffix3",
+                    "suffix2",
+                    "upper",
+                    "title",
+                    "digit",
+                    "pattern"
+                ],
+                [
+                    "low",
+                    "title",
+                    "upper"
+                ]
+            ],
+            "max_iterations": 50,
+            "L1_c": 0.1,
+            "L2_c": 0.1,
+            "name": "ner_crf",
+            "classifier_file": "crf_model.pkl",
+            "class": "rasa_nlu.extractors.crf_entity_extractor.CRFEntityExtractor"
+        },
+        {
+            "name": "ner_synonyms",
+            "synonyms_file": "entity_synonyms.json",
+            "class": "rasa_nlu.extractors.entity_synonyms.EntitySynonymMapper"
+        }
+    ],
+    "training_data": "training_data.json",
+    "trained_at": "20181114-165345",
+    "rasa_nlu_version": "0.13.0a2"
+}

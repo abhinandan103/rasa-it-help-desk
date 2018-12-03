@@ -1,0 +1,69 @@
+{
+    "slots": {
+        "password_reset": {"type": "text","usr_requestable":false,"usr_informable":true,"sys_requestable":true}, 
+        "application_skype": {"type": "bool","usr_requestable":false,"usr_informable":true,"sys_requestable":true}, 
+        "application_omniview": {"type": "bool","usr_requestable":false,"usr_informable":true,"sys_requestable":true}, 
+        "application_salesforce": {"type": "bool","usr_requestable":false,"usr_informable":true,"sys_requestable":true},
+        "application_serviceacc": {"type": "bool","usr_requestable":false,"usr_informable":true,"sys_requestable":true},
+        "ID": {"type": "text","usr_requestable":false,"usr_informable":true,"sys_requestable":true},
+        "send_otp": {"type": "bool","usr_requestable":false,"usr_informable":true,"sys_requestable":true},
+        "number": {"type": "text","usr_requestable":false,"usr_informable":true,"sys_requestable":true},
+        "finished": {"type": "bool","usr_requestable":false,"usr_informable":true,"sys_requestable":true},
+        "email_sent": {"type": "bool","usr_requestable":false,"usr_informable":true,"sys_requestable":true},
+        "email_id": {"type": "text","usr_requestable":false,"usr_informable":true,"sys_requestable":true},
+        "access": {"type": "bool","usr_requestable":false,"usr_informable":true,"sys_requestable":true},
+        "machine": {"type": "text","usr_requestable":false,"usr_informable":true,"sys_requestable":true},
+        "name": {"type": "text","usr_requestable":false,"usr_informable":true,"sys_requestable":true},
+        "approval": {"type": "bool","usr_requestable":false,"usr_informable":true,"sys_requestable":true},
+        "security_code": {"type": "text","usr_requestable":false,"usr_informable":true,"sys_requestable":true,"copies":"number"},
+        "request_number": {"type": "text","usr_requestable":false,"usr_informable":true,"sys_requestable":true,"copies":"number"},
+        "admin_access": {"type": "bool","usr_requestable":false,"usr_informable":true,"sys_requestable":true},
+        "login_able": {"type": "bool","usr_requestable":false,"usr_informable":true,"sys_requestable":true},
+        "login": {"type": "bool","usr_requestable":false,"usr_informable":true,"sys_requestable":true},
+        "requested_slot": {"type": "categorical",
+                            "values":["ID","send_otp","security_code","approval","request_number","login_able",
+                                        "admin_access","login","resolved"],
+                            "usr_requestable":true,"usr_informable": false,"sys_requestable": false},
+        "unavailable_slots": {"type": "categorical",
+                            "values":["ID","send_otp","security_code","approval","request_number","login_able",
+                                        "admin_access","login","resolved"],
+                            "usr_requestable":false,"usr_informable": true,"sys_requestable": true},
+        "feedback": {"type": "bool","usr_requestable":true,"usr_informable": true,"sys_requestable": true},
+        "sentiment": {"type": "bool","usr_requestable":false,"usr_informable":true,"sys_requestable":true},
+        "resolved": {"type": "bool","usr_requestable":true,"usr_informable":true,"sys_requestable":true},
+        "howto": {"type": "bool","usr_requestable":false,"usr_informable":true,"sys_requestable":true},
+        "issue": {"type": "bool","usr_requestable":false,"usr_informable":true,"sys_requestable":true},
+        "convert": {"type": "bool","usr_requestable":false,"usr_informable":true,"sys_requestable":true},
+        "xls2pdf": {"type": "bool","usr_requestable":false,"usr_informable":true,"sys_requestable":true},
+        "wait": {"type": "bool","usr_requestable":true,"usr_informable":true,"sys_requestable":true},
+        "pdf_converter": {"type": "text","usr_requestable":false,"usr_informable":true,"sys_requestable":true},
+        "instruction": {"type": "bool","usr_requestable":true,"usr_informable":false,"sys_requestable":false},
+        "xls2pdf_harddrive": {"type": "bool","usr_requestable":false,"usr_informable":true,"sys_requestable":true}
+            },
+
+    "processes": {
+        "password_reset": {"type":"bool"},
+        "access_grant": {"type":"bool"},
+        "Software Troubleshooting": {"type":"bool"}
+    },
+    "discourseActs": [
+        "greet", 
+        "none", 
+        "gratitude",
+        "anythingelse",
+        "required",
+        "bye",
+        "end",
+        "wait",
+        "feedback",
+        "instruction"
+    ], 
+    "methods": [
+        "none", 
+        "finished", 
+        "byname", 
+        "bye",
+        "reset"
+    ]
+
+}

@@ -1,0 +1,500 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"usr_",
+				"usr_channel"
+			],
+			[
+				"usr_cha",
+				"usr_channels"
+			],
+			[
+				"rand",
+				"random_state"
+			],
+			[
+				"env_",
+				"env_json"
+			],
+			[
+				"xls",
+				"xls2pdf_harddrive"
+			],
+			[
+				"requested",
+				"requested_slot"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"reque",
+				"requested_slot"
+			],
+			[
+				"latets",
+				"latest_user_message"
+			],
+			[
+				"apologize",
+				"apologize_abandoned"
+			],
+			[
+				"apol",
+				"apologize_abandoned"
+			],
+			[
+				"data",
+				"data_nodes"
+			],
+			[
+				"word",
+				"wordlist"
+			],
+			[
+				"nlu",
+				"nlu_model"
+			],
+			[
+				"info",
+				"info_fields"
+			],
+			[
+				"path",
+				"path_to_glove"
+			],
+			[
+				"feed",
+				"feedback"
+			],
+			[
+				"quer",
+				"query_date"
+			],
+			[
+				"loan",
+				"loan_number"
+			],
+			[
+				"supraht",
+				"suprath_dir"
+			],
+			[
+				"env_js",
+				"env_json_file"
+			],
+			[
+				"delive",
+				"delivery"
+			],
+			[
+				"topic",
+				"topic_results"
+			],
+			[
+				"latest",
+				"latest_intent"
+			],
+			[
+				"popu",
+				"populateTicketDetails"
+			],
+			[
+				"kers",
+				"KerasIDarePolicy"
+			],
+			[
+				"btn-f",
+				"btn-fb"
+			],
+			[
+				"conf",
+				"confidence"
+			],
+			[
+				"predi",
+				"predict_intent"
+			],
+			[
+				"belief",
+				"belief_state"
+			],
+			[
+				"reds",
+				"redis_add"
+			],
+			[
+				"feedbac",
+				"feedback_type"
+			],
+			[
+				"server",
+				"server_ip"
+			],
+			[
+				"inte",
+				"interpreter_file"
+			],
+			[
+				"env",
+				"env_config_file"
+			],
+			[
+				"smart",
+				"smart_routing"
+			],
+			[
+				"late",
+				"latest_sender"
+			],
+			[
+				"belie",
+				"belief_state"
+			],
+			[
+				"change",
+				"changed_belief_state"
+			],
+			[
+				"chane",
+				"changed_belief_state"
+			],
+			[
+				"bele",
+				"belief_state"
+			],
+			[
+				"beli",
+				"belief_state"
+			],
+			[
+				"latesT",
+				"latest_intent"
+			],
+			[
+				"latst",
+				"latest_message"
+			],
+			[
+				"passo",
+				"password_reset"
+			],
+			[
+				"securit",
+				"security_code"
+			],
+			[
+				"securt",
+				"security_code"
+			],
+			[
+				"usr",
+				"usr_requestable"
+			],
+			[
+				"changed",
+				"changed_state"
+			],
+			[
+				"unav",
+				"unavailable"
+			],
+			[
+				"imae",
+				"image_url"
+			],
+			[
+				"rec",
+				"recipient_id"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/arusia/work/rasaextension/coreextension/rasa_core/channels/rest.py",
+		"/home/arusia/work/rasaextension/coreextension/examples/IT_Helpdesk_2/idare.py",
+		"/home/arusia/Demo/demos/IT_Helpdesk_2/server.py",
+		"/home/arusia/Demo/env/src/rasa-core/coreextension/rasa_core/agent.py",
+		"/home/arusia/work/rasaextension/coreextension/rasa_core/agent.py",
+		"/home/arusia/Demo/env/src/rasa-core/coreextension/rasa_core/processor.py",
+		"/home/arusia/work/rasaextension/coreextension/rasa_core/processor.py",
+		"/home/arusia/work/ansible/helpdesk_scripts/envconfig.json",
+		"/home/arusia/work/rasaextension/suprath_nlu/tests/test_predict.py",
+		"/home/arusia/work/rasaextension/suprath_nlu/tests/test_wrapper.py",
+		"/home/arusia/work/rasaextension/coreextension/rasa_core/events/__init__.py",
+		"/home/arusia/work/rasaextension/coreextension/rasa_core/trackers.py",
+		"/home/arusia/work/rasaextension/coreextension/rasa_core/channels/channel.py",
+		"/home/arusia/work/rasaextension/coreextension/rasa_core/channels/direct.py",
+		"/home/arusia/work/rasaextension/coreextension/examples/DemoStories/idare.py",
+		"/home/arusia/work/rasaextension/suprath_nlu/tests/test_train.py",
+		"/home/arusia/work/rasaextension/suprath_nlu/suprath_nlu/wrapper.py",
+		"/home/arusia/Demo/env/src/rasa-core/coreextension/rasa_core/envconfig.py",
+		"/home/arusia/Demo/demos/IT_Helpdesk_2/envconfig.json",
+		"/home/arusia/work/rasaextension/coreextension/rasa_core/channels/botframework.py",
+		"/home/arusia/work/rasaextension/coreextension/rasa_core/channels/custom_websocket.py",
+		"/home/arusia/work/rasaextension/coreextension/rasa_core/channels/websocket.py",
+		"/home/arusia/Demo/demos/IT_Helpdesk_2/server_teams.py",
+		"/home/arusia/work/rasaextension/suprath_nlu/suprath_nlu/svm_predictor.py",
+		"/home/arusia/Demo/env/src/rasa-core/coreextension/rasa_core/channels/botframework.py",
+		"/home/arusia/Demo/env/src/rasa-core/coreextension/rasa_core/interpreter.py",
+		"/home/arusia/work/rasaextension/suprath_nlu/suprath_nlu/ner_trainer.py",
+		"/home/arusia/Demo/env/src/rasa-core/coreextension/rasa_core/channels/channel.py",
+		"/home/arusia/Demo/demos/IT_Helpdesk_2/teams_map.json",
+		"/home/arusia/Demo/demos/IT_Helpdesk_2/idare.py",
+		"/home/arusia/Demo/demos/IT_Helpdesk_2/tests/test_stories.py",
+		"/home/suprath/software/apache/apache-tomcat-9.0.11/webapps/AgentAssist/ticket-response_newws.jsp",
+		"/home/arusia/Demo/demos/IT_Helpdesk_2/email_webhook.py",
+		"/home/arusia/Demo/demos/IT_Helpdesk_2/Generated Sentences/greet.dat",
+		"/home/arusia/Demo/demos/IT_Helpdesk_2/smart_models.py",
+		"/home/arusia/Demo/demos/IT_Helpdesk_2/Generated Sentences/confirm.dat",
+		"/home/arusia/work/clientportal/chatapp/templates/chatapp/main_helpdesk.html",
+		"/home/arusia/work/clientportal/chatapp/templates/chatapp/main_mortgage.html",
+		"/home/arusia/work/clientportal/chatapp/templates/chatapp/main.html",
+		"/home/arusia/work/clientportal/chatapp/views.py",
+		"/home/arusia/work/ansible/helpdesk_scripts/agentdb.sql",
+		"/home/arusia/Demo/demos/IT_Helpdesk_2/envconfig_teams.json",
+		"/home/arusia/Demo/env/src/rasa-core/coreextension/rasa_core/channels/__init__.py",
+		"/home/arusia/work/ansible/envconfig.json",
+		"/home/arusia/work/ansible/agentdb.sql",
+		"/home/arusia/Demo/env/src/rasa-core/coreextension/rasa_core/domain.py",
+		"/home/arusia/Demo/env/src/rasa-core/coreextension/rasa_core/events/__init__.py",
+		"/home/arusia/Demo/env/src/rasa-core/coreextension/rasa_core/policies/ensemble.py",
+		"/home/arusia/Demo/demos/IT_Helpdesk_2/domain.json",
+		"/home/arusia/work/clientportal/chatapp/templates/chatapp/index.html",
+		"/home/arusia/work/clientportal/suprath_config.json",
+		"/home/arusia/work/clientportal/chatapp/templates/chatapp/index_helpdesk.html",
+		"/home/suprath/software/apache/apache-tomcat-9.0.11/webapps/AgentAssist/livestatus.jsp",
+		"/home/arusia/work/rasaextension/coreextension/examples/Mortgage_payoff/Test_dual_websocket.py",
+		"/home/arusia/Demo/demos/IT_Helpdesk_2/Test_console.py",
+		"/home/arusia/work/rasaextension/suprath_nlu/tests/test_feedback.py",
+		"/home/arusia/Demo/env/lib/python3.6/site-packages/suprath_nlu/svm_trainer.py",
+		"/home/arusia/Demo/env/lib/python3.6/site-packages/suprath_nlu/svm_predictor.py",
+		"/home/arusia/Demo/demos/IT_Helpdesk_2/Generated Sentences/nlu_training.json",
+		"/home/arusia/work/rasaextension/suprath_nlu/suprath_nlu/svm_trainer.py",
+		"/home/arusia/Demo/env/lib64/python3.6/site-packages/suprath_nlu/svm_trainer.py",
+		"/home/arusia/work/rasaextension/suprath_nlu/tests/nlu_training.json",
+		"/home/arusia/Demo/demos/Mortgage_payoff/smart_models.py",
+		"/home/arusia/Demo/demos/Mortgage_payoff/idare.py",
+		"/home/arusia/work/rasaextension/coreextension/rasa_core/domain.py",
+		"/home/arusia/work/rasaextension/coreextension/rasa_core/tracker_store.py",
+		"/home/arusia/Demo/demos/IT_Helpdesk_2/tests/test_envconfig.json",
+		"/home/arusia/Demo/demos/Mortgage_payoff/nlu_model_config.yml",
+		"/home/arusia/Demo/demos/Mortgage_payoff/domain.json",
+		"/home/arusia/work/Stanford_multiturn/New_ch_gan.py",
+		"/home/arusia/work/arbor/docs/sample-project/index.html",
+		"/home/arusia/work/arbor/docs/sample-project/main.js",
+		"/home/arusia/work/berkadia/details.json",
+		"/home/arusia/work/berkadia/outliar.py",
+		"/home/arusia/work/arbor/docs/sample-project/style.css",
+		"/home/arusia/work/Stanford_multiturn/ch_level_gan.py",
+		"/home/arusia/work/arbor/README",
+		"/home/suprath/software/apache/apache-tomcat-9.0.11/webapps/AgentAssist/livestatus_old.jsp",
+		"/home/arusia/Demo/utils/demo_view/demo_view/templates/default.html",
+		"/home/suprath/software/apache/apache-tomcat-9.0.11/webapps/AgentAssist/thresholdsetting.jsp",
+		"/home/suprath/software/apache/apache-tomcat-9.0.11/webapps/AgentAssist/assets/css/style.css",
+		"/home/suprath/software/apache/apache-tomcat-9.0.11/webapps/AgentAssist/livestatus_new.jsp",
+		"/home/arusia/work/react_tree/src/App.js",
+		"/home/arusia/work/react_tree/src/App.",
+		"/home/arusia/work/Stanford_multiturn/ch_level_gan.",
+		"/home/arusia/work/Stanford_multiturn/ch.out",
+		"/home/arusia/work/rasaextension/coreextension/rasa_core/interpreter.py",
+		"/home/arusia/Demo/demos/Mortgage_payoff/server.py",
+		"/home/arusia/Demo/env/src/suprath-nlu/suprath_nlu/suprath_nlu/svm_predictor.py",
+		"/home/arusia/work/rasaextension/nluextension/rasa_nlu/model.py",
+		"/home/arusia/work/rasaextension/suprath_nlu/suprath_nlu/__init__.py",
+		"/home/arusia/work/Stanford_multiturn/visual.py",
+		"/home/arusia/Demo/demos/Mortgage_payoff/Generated Sentences/nlu_training.json",
+		"/home/arusia/Demo/demos/Mortgage_payoff/admin.py",
+		"/home/arusia/Demo/demos/Mortgage_payoff/Generated Sentences/Generator.ipynb",
+		"/home/arusia/work/rasaextension/suprath_nlu/suprath_nlu/tokenizer.py",
+		"/home/arusia/Demo/demos/IT_Helpdesk_2/admin.py",
+		"/home/arusia/Demo/demos/IT_Helpdesk_2/Generated Sentences/IT stories.ipynb",
+		"/home/arusia/Demo/env/src/suprath-nlu/suprath_nlu/suprath_nlu/svm_trainer.py",
+		"/home/arusia/Demo/env/src/suprath-nlu/suprath_nlu/suprath_nlu/wrapper.py",
+		"/home/arusia/work/rasaextension/coreextension/rasa_core/utils.py",
+		"/home/arusia/work/rasaextension/coreextension/rasa_core/version.py",
+		"/home/arusia/work/rasaextension/coreextension/rasa_core/tracker_S",
+		"/home/arusia/Demo/demos/IT_Helpdesk_2/nlu_training.json",
+		"/home/arusia/work/rasaextension/coreextension/examples/DemoStories/admin.py",
+		"/home/arusia/work/rasaextension/coreextension/examples/Mortgage_payoff/admin.py",
+		"/home/arusia/Demo/demos/Mortgage_payoff/envconfig.json",
+		"/home/arusia/work/rasaextension/coreextension/examples/DemoStories/domain.json",
+		"/home/arusia/Demo/demos/IT_Helpdesk_2/Test_dual_websocket.py",
+		"/home/arusia/work/rasaextension/coreextension/examples/DemoStories/nlu_training.json",
+		"/home/arusia/work/rasaextension/coreextension/examples/DemoStories/server.py",
+		"/home/arusia/work/rasaextension/suprath_nlu/tests/glove.txt",
+		"/home/suprath/software/apache/apache-tomcat-9.0.11/webapps/AgentAssist/assets/css/chat.css",
+		"/home/suprath/software/apache/apache-tomcat-9.0.11/webapps/AgentAssist/task-response.html",
+		"/home/arusia/work/Stanford_multiturn/temp.py",
+		"/home/arusia/work/Stanford_multiturn/hybrid_rule_ml_boost.py",
+		"/home/arusia/work/Stanford_multiturn/transformer.py",
+		"/home/arusia/work/Stanford_multiturn/hybrid_rule_ml_boost.",
+		"/home/arusia/work/Stanford_multiturn/temp.ipynb",
+		"/home/arusia/work/rasaextension/iDareUtils/ConversationMS/Redis_api.py",
+		"/home/arusia/Demo/demos/Mortgage_payoff/email_webhook.py",
+		"/home/arusia/temp.py",
+		"/home/arusia/work/rasaextension/coreextension/rasa_core/channels/console.py",
+		"/home/arusia/work/rasaextension/coreextension/tests/test_domain.py",
+		"/home/arusia/work/rasaextension/coreextension/data/test_domains/default_domain.json",
+		"/home/arusia/work/rasaextension/coreextension/examples/Mortgage_payoff/Test_console.py",
+		"/home/arusia/work/rasaextension/coreextension/tests/conftest.py",
+		"/home/arusia/work/rasaextension/coreextension/tests/test_processor.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "affirm.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 137.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
